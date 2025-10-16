@@ -1,5 +1,5 @@
 resource "google_storage_bucket" "my-bucket" {
-  name          = "bkt-demo-000"
+  name          = "bkt-demo-0001"
   location      = "us-central1"
   project = "tt-dev-001"
   force_destroy = true
